@@ -7,3 +7,4 @@ To get the sources, create folder with a name e.g. "gulpdemo". Make sure not to 
 * ```git init```
 * ```git remote add origin https://github.com/PizzaCodeUA/gulpdemo.git```
 * ```git pull origin master```
+* ```npm install``` 
